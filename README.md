@@ -63,14 +63,6 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
-![image](https://github.com/Priyaadarshinik/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/150005158/4e396788-2661-4f39-966d-ffbaa93c5c83)
-
-![image](https://github.com/Priyaadarshinik/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/150005158/86691bce-9818-4e55-bd54-c34b908dca3f)
-
-![image](https://github.com/Priyaadarshinik/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/150005158/81c3e8b4-8bd4-4baf-b714-2f82b6affed5)
-
-![image](https://github.com/Priyaadarshinik/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/150005158/95ef2891-b7c8-47a7-b5b5-b8db5351f55b)
-
 ![image](https://github.com/Priyaadarshinik/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/150005158/70f262fe-f844-4d3d-8be6-17494befe91b)
 
 ## RESULT:
